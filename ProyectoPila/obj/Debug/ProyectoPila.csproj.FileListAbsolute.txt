@@ -1,0 +1,7 @@
+C:\Users\Omar Campos\Documents\Trabajos4toCuatrimestre\Estructura de datos\ProyectoPila\ProyectoPila\obj\Debug\ProyectoPila.csproj.AssemblyReference.cache
+C:\Users\Omar Campos\Documents\Trabajos4toCuatrimestre\Estructura de datos\ProyectoPila\ProyectoPila\obj\Debug\ProyectoPila.csproj.CoreCompileInputs.cache
+C:\Users\Omar Campos\Documents\Trabajos4toCuatrimestre\Estructura de datos\ProyectoPila\ProyectoPila\bin\Debug\ProyectoPila.exe.config
+C:\Users\Omar Campos\Documents\Trabajos4toCuatrimestre\Estructura de datos\ProyectoPila\ProyectoPila\bin\Debug\ProyectoPila.exe
+C:\Users\Omar Campos\Documents\Trabajos4toCuatrimestre\Estructura de datos\ProyectoPila\ProyectoPila\bin\Debug\ProyectoPila.pdb
+C:\Users\Omar Campos\Documents\Trabajos4toCuatrimestre\Estructura de datos\ProyectoPila\ProyectoPila\obj\Debug\ProyectoPila.exe
+C:\Users\Omar Campos\Documents\Trabajos4toCuatrimestre\Estructura de datos\ProyectoPila\ProyectoPila\obj\Debug\ProyectoPila.pdb
